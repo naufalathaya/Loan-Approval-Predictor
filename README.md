@@ -10,8 +10,7 @@ Developed a web app that predicts loan approval status using an SVM model. Users
 * Model Training: Trained an SVM model to predict loan approval.
 * Model Evaluation: Assessed model performance with accuracy metrics.
 * Web Development: Built a user-friendly web app with Flask.
-* User Interface: Designed an input form for users.
-* Deployment: Deployed the app using Heroku.
+* User Interface: Designed simple interface an input form for users.
 ## Tools
 * Python
 * Flask
