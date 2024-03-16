@@ -16,7 +16,7 @@ Developed a web app that predicts loan approval status using an SVM model. Users
 * Flask
 * HTML
 ## Outcome
-The app offers a convenient way to assess loan approval chances, benefiting both users and financial institutions.
+The app offers a convenient way to assess loan approval chances, benefiting both users and financial institutions. You can watch the app demo here: https://drive.google.com/file/d/1b95h4eCjw74wvzIH1oR4WvLo0-Kpj8Bc/view?usp=drive_link
 ## Learning
 * Data preprocessing
 * Exploratory Data Analysis
